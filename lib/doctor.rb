@@ -28,5 +28,3 @@ class Doctor
   
 
 end
-
-Doctor.new
