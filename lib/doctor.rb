@@ -26,7 +26,7 @@ class Doctor
     binding.pry 
   end
   
-  self.patients
+  Doctor.new
   
   
 end
